@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at SpaceTimeLab under supervision of Tao Cheng and Laura Toni. My research focuses on reinforcement learning and graph neural networks to model network performances.
+I am a PhD student at SpaceTimeLab under supervision of Tao Cheng and Laura Toni. My research focuses on reinforcement learning and graph neural networks to model network performances. I obtained my MSc at the Imperial College London and University College London under supervision of Bani Anvari. My research was about short-term traffic prediction with a delayed dynamic model. I am broadly interested in developing machine learning models that is related to intellignet mobility.  
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
